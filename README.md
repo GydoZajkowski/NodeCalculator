@@ -1,2 +1,2 @@
 # NodeCalculator
-First Node project
+First Node.js project
